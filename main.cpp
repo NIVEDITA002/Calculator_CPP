@@ -13,7 +13,7 @@ int main()
 {
     cout << "\n\n\n\n\n\n";
     cout << "              ----------------------------------------" << endl;
-    cout << "                            CALENDAR            \n";
+    cout << "                            TIMELINE PRO            \n";
     cout << "              ----------------------------------------" << endl;
     cout << "                                                    \n";
     cout << "                  Project by ,                      \n";

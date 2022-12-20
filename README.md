@@ -1,1 +1,2 @@
 # Calculator_CPP
+TIMELINE PRO is a calendar application developed using C++ by applying the concepts of Object Oriented programming. The calendar is developed using the Gregorian Calendar Algorithm. Abstraction, encapsulation and inheritance are used in this project. The application consists of monthly, weekly, daily and agenda views. The users can add, edit and delete events. They can also add or edit the event category to any event as a work event or home event.
